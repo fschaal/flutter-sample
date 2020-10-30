@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782811697438",
+    "firebase_url": "https://todelu-b1b7f.firebaseio.com",
+    "project_id": "todelu-b1b7f",
+    "storage_bucket": "todelu-b1b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782811697438:android:ba436da6c7fc78ccd7390f",
+        "android_client_info": {
+          "package_name": "com.florianschaal.todelu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782811697438-tsl9rlinj2hfpkvnv2bj8k0j1t9ah2b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_lNJUIs9krGr11dh9A3rU5RVygOTWqdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782811697438-tsl9rlinj2hfpkvnv2bj8k0j1t9ah2b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
